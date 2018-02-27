@@ -1,0 +1,49 @@
+body {
+   
+    background: url("../images/background.jpg");
+    width: 100%;  
+    
+   
+}
+
+.container {
+
+    margin-top: 80px;
+   
+}  
+
+.panel-primary > .panel-heading {
+    color: #ffffff;
+    background-color: #bf25ae;
+   
+  }
+
+  .panel panel-primary {
+    border-color: #3e003c; 
+  }
+  
+  h1 {
+    letter-spacing: 3px;
+}
+
+.jumbotron {
+    margin: 20px auto;
+   
+
+}
+
+.col-lg-6 {
+   
+}
+.p {
+    letter-spacing: 2px;
+}
+
+.panel-title {
+    letter-spacing: 1px;
+}
+
+.panel-body {
+    margin: 253px, 100px;
+
+}
