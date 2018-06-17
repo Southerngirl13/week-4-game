@@ -9,7 +9,7 @@
 The object of the assignment is to learn the use of random numbers while utilizing HTML/CSS, jquery/javascript, media queries, and global/local scope.
 
 
-## Crystal Collector
+
 ## Here's how the app works:
 
    * There will be four crystals displayed as buttons on the page.
