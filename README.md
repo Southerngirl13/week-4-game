@@ -1,6 +1,6 @@
-# week-4-game
+# Week 4 Game
 
-# CrystalsCollector
+## Crystal Collector
 <h1 align="center">
   <br>
   <img src="https://github.com/Southerngirl13/week-4-game/blob/master/assets/images/readme.png">
