@@ -31,3 +31,5 @@ The object of the assignment is to learn the use of random numbers while utilizi
    * When the game begins again, the player should see a new random number. Also, all the crystals will have four new hidden values. Of course, the user's score (and score counter) will reset to zero.
 
    * The app should show the number of games the player wins and loses. To that end, do not refresh the page as a means to restart the game.
+
+   To visit deployed application, go to https://southerngirl13.github.io/week-4-game/
