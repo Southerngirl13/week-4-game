@@ -11,20 +11,14 @@ body {
     /* background-color: #0045ad;  */
     background: linear-gradient(to bottom right, blue, aqua);
     
-  
   }
 
-  /* .panel panel-primary {
-    border-color: #3e003c; 
-  } */
-  
   h1 {
     letter-spacing: 3px;
 }
 
 .jumbotron {
     margin: 20px auto;
-
 }
 
 .col-lg-6 {  
@@ -41,7 +35,6 @@ body {
 .panel-body {
     margin: 253px, 100px;
     /* background-color: #ffffff; */
-
 }
 
 .panel-heading {
