@@ -8,7 +8,8 @@ body {
 }  
 
 .panel-primary > .panel-heading {
-    background-color: #0045ad; 
+    /* background-color: #0045ad;  */
+    background: linear-gradient(to bottom right, blue, aqua);
     
   
   }
@@ -44,5 +45,11 @@ body {
 }
 
 .panel-heading {
-    background-color: hotpink;
+    background-color: blue
+}
+
+.jumbotron {
+  
+    background: linear-gradient(blue, aqua);
+color: white;
 }
