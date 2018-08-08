@@ -1,26 +1,21 @@
 body {
-   
-    background: url("../images/background.jpg");
-    width: 100%;  
-    
-   
+    background: url("../images/background2.jpg");
+    width: 100%;   
 }
 
 .container {
-
     margin-top: 80px;
-   
 }  
 
 .panel-primary > .panel-heading {
-    color: #ffffff;
-    background-color: #bf25ae;
-   
+    background-color: #0045ad; 
+    
+  
   }
 
-  .panel panel-primary {
+  /* .panel panel-primary {
     border-color: #3e003c; 
-  }
+  } */
   
   h1 {
     letter-spacing: 3px;
@@ -28,12 +23,10 @@ body {
 
 .jumbotron {
     margin: 20px auto;
-   
 
 }
 
-.col-lg-6 {
-   
+.col-lg-6 {  
 }
 .p {
     letter-spacing: 2px;
@@ -41,9 +34,15 @@ body {
 
 .panel-title {
     letter-spacing: 1px;
+
 }
 
 .panel-body {
     margin: 253px, 100px;
+    /* background-color: #ffffff; */
 
+}
+
+.panel-heading {
+    background-color: hotpink;
 }
